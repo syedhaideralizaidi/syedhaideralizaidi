@@ -1,4 +1,4 @@
-# 💫 About Me:
+# <h1><center>Hi, I am Syed Haider Ali Zaidi</center></h1>
 🔭 I’m currently working as a Software Engineer at Conovo developing high performance back end applications with Django and Python.<br>👯 I’m looking to collaborate on any Python related projects specially in AI and DL<br>🤝 I’m looking for help with my projects in AI<br>🌱 I’m currently learning all about Deep Learning and Generative AI<br>💬 Ask me anything related to Python<br>
 
 
