@@ -28,10 +28,11 @@
 <div width="100%" align="center"><a href="https://github.com/syedhaideralizaidi/Reducing-Traffic-Mortality-though-Data-Science" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=syedhaideralizaidi&repo=Reducing-Traffic-Mortality-though-Data-Science&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en" /></a><a href="https://github.com/syedhaideralizaidi/Driving-School-Management-System" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=syedhaideralizaidi&repo=Driving-School-Management-System&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en" /></a></div>
 
 
-
-### 😂 Random Dev Meme
+<div width="100%" align="center">
+### 😂 Random Dev Meme<div width="100%" align="center">
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=syedhaideralizaidi&icon=0&color=0)](https://visitcount.itsvg.in)
 
+</div>
