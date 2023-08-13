@@ -1,16 +1,24 @@
-### Hi there 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Syed Haider Ali Zaidi=============================================================================================================================================Software Engineer-----------------I am currently working as a Software Engineer at Conovo. I am developing high performance backend applications with Django and Python.* 🌍  I'm based in Pakistan* ✉️  You can contact me at [haider.zaidiy@gmail.com](mailto:haider.zaidiy@gmail.com)* 🧠  I'm learning all about Deep Learning and Generative AI* 🤝  I'm open to collaborating on any Python realted projects specially in AI and DL
 
-<!--
-**syedhaideralizaidi/syedhaideralizaidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Skills
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON </p>
+### Socials<p align="left"> <a href="https://www.github.com/syedhaideralizaidi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/zaidi.14" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/haideralizaidi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="http://www.medium.com/haider.zaidiy" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /> </picture> </a> <a href="https://www.stackoverflow.com/users/21057419/syed-haider-ali-zaidi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /> </picture> </a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/syedhaideralizaidi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=syedhaideralizaidi&stroke=ffffff&background=0f172a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/syedhaideralizaidi"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=syedhaideralizaidi&bg_color=0f172a&color=ffffff&line=0891b2&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/syedhaideralizaidi/QUIZ-APP" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=syedhaideralizaidi&repo=QUIZ-APP&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en" /></a><a href="https://github.com/syedhaideralizaidi/Social-Media-App-Django" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=syedhaideralizaidi&repo=Social-Media-App-Django&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+<br /><br /><br /><br /><br />
+
+<div width="100%" align="center"><a href="https://github.com/syedhaideralizaidi/Reducing-Traffic-Mortality-though-Data-Science" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=syedhaideralizaidi&repo=Reducing-Traffic-Mortality-though-Data-Science&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en" /></a><a href="https://github.com/syedhaideralizaidi/Driving-School-Management-System" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=syedhaideralizaidi&repo=Driving-School-Management-System&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en" /></a></div>
