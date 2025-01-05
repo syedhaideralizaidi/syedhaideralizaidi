@@ -1,4 +1,4 @@
-# <div align="center">Hi, I'm <a href="https://www.linkedin.com/in/haideralizaidi/">Haider Ali</a>, a Software Engineer 👨‍💻</div>  
+# <div align="center">Hi, I'm <a href="https://www.linkedin.com/in/haideralizaidi/">Syed Ali Zaidi</a>, a Software Engineer 👨‍💻</div>  
 <br>
 🔭 I’m currently working as a Software Engineer at Conovo developing high performance back end applications with Django, Python and Golang.<br>👯 I’m looking to collaborate on any Python related projects specially in AI and DL.<br>🤝 I’m looking for help with my projects in AI.<br>🌱 I’m currently learning all about Deep Learning and Generative AI.<br>💬 Ask me anything related to Python.<br>
 <br><br>
